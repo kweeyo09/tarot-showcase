@@ -58,7 +58,7 @@ const CARD_H = 152;  // px — proper tarot card ratio ~1:1.7
 const ARC_RADIUS = 750; // px — controls arch curvature
 const ARC_SPAN_DEG = 62;  // total degrees of the fan
 const HOVER_RISE_PX = 65; // how far the hovered card rises
-const ROLL_RANGE_DEG = 25; // max arc offset from mouse
+const ROLL_RANGE_DEG = 35; // max arc offset from mouse — must be >= ARC_SPAN_DEG/2 to reach all cards
 // Container height: just enough for centre card + hover rise + small padding
 // Edge cards extend below the container bottom (overflow:visible handles this)
 const EDGE_Y_DROP = ARC_RADIUS * (1 - Math.cos((ARC_SPAN_DEG / 2) * Math.PI / 180));
@@ -560,8 +560,9 @@ export default function CardSpread() {
       if (!rect) return;
       // Normalise mouse X across the full container width: 0 (left) → 1 (right)
       const t = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
-      // Map to arc offset: left edge = -ROLL_RANGE_DEG, right edge = +ROLL_RANGE_DEG
-      targetArcOffset.current = (t - 0.5) * 2 * ROLL_RANGE_DEG;
+      // Map to arc offset: mouse right → deck rolls LEFT (negative offset), mouse left → deck rolls RIGHT
+      // Inverted so the deck rolls opposite to mouse direction, revealing cards on the far side
+      targetArcOffset.current = -(t - 0.5) * 2 * ROLL_RANGE_DEG;
       if (!rafRef.current) {
         rafRef.current = requestAnimationFrame(animateArc);
       }
