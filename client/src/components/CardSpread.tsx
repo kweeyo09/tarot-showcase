@@ -55,14 +55,14 @@ const CARD_BACK_URL =
 const TOTAL_CARDS = tarotCards.length; // 78
 const CARD_W = 90;   // px
 const CARD_H = 152;  // px — proper tarot card ratio ~1:1.7
-const ARC_RADIUS = 750; // px — controls arch curvature
-const ARC_SPAN_DEG = 62;  // total degrees of the fan
+const ARC_RADIUS = 1400; // px — larger radius = flatter, wider arch
+const ARC_SPAN_DEG = 110; // total degrees of the fan — wide, fills the screen
 const HOVER_RISE_PX = 65; // how far the hovered card rises
-const ROLL_RANGE_DEG = 35; // max arc offset from mouse — must be >= ARC_SPAN_DEG/2 to reach all cards
+const ROLL_RANGE_DEG = 60; // max arc offset from mouse — must be >= ARC_SPAN_DEG/2 to reach all cards
 // Container height: just enough for centre card + hover rise + small padding
 // Edge cards extend below the container bottom (overflow:visible handles this)
 const EDGE_Y_DROP = ARC_RADIUS * (1 - Math.cos((ARC_SPAN_DEG / 2) * Math.PI / 180));
-const CONTAINER_H = CARD_H + HOVER_RISE_PX + 20; // ~237px — edge cards overflow below
+const CONTAINER_H = CARD_H + HOVER_RISE_PX + 20; // edge cards overflow below
 
 // ─── Lerp helper ─────────────────────────────────────────────────────────────
 function lerp(a: number, b: number, t: number) {
@@ -543,8 +543,8 @@ export default function CardSpread() {
   const animateArc = useCallback(() => {
     const diff = targetArcOffset.current - currentArcOffset.current;
     if (Math.abs(diff) > 0.005) {
-      // Very slow lerp factor = smooth, cinematic feel
-      currentArcOffset.current = lerp(currentArcOffset.current, targetArcOffset.current, 0.04);
+      // Very slow lerp factor = smooth, deliberate rolling feel
+      currentArcOffset.current = lerp(currentArcOffset.current, targetArcOffset.current, 0.025);
       setArcOffsetDeg(currentArcOffset.current);
       rafRef.current = requestAnimationFrame(animateArc);
     } else {
