@@ -22,7 +22,7 @@ import { X, ChevronLeft, ChevronRight } from "lucide-react";
 
 // ─── Card back CDN URL ────────────────────────────────────────────────────────
 const CARD_BACK_URL =
-  "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/tarot-card-back-hAH3477CYby4mpznTT66Bh.webp";
+  "/cards/card-back.svg";
 
 // ─── Geometry constants ───────────────────────────────────────────────────────
 // ARCH GEOMETRY (top-left coordinate system, y increases downward):

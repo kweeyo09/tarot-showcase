@@ -37,7 +37,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "The Fool reversed brings out the irresponsible side — the mouth works ahead of the brain. Without thinking through the downsides, decisions are made that are not wise. Think carefully before agreeing to a new approach to work and hold back from emotional commitments until you are sure of your ground.",
     description: "The Fool is the innocent adventurer, about to begin an important journey. With a head full of hope, he is idealistic rather than practical. The little dog at his heels tries to warn him of impending peril, but the Fool is blissfully ignorant of the risk he takes in stepping off a cliff.",
     wisdomMessage: "Leap, but look first.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_00_fool_b0379748.jpg",
+    imageUrl: "/cards/major_00_fool.jpg",
   },
   {
     id: "major_01_magician",
@@ -51,7 +51,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Magician turns trickster — this card can show you being misled by a charming manipulator. What you see is not what you get, and it's all show, not truth. In your projects, the Magician reversed can show a creative block as you feel torn between two paths. It's time to choose one option and commit to it fully.",
     description: "A Magician in action, complete with magic wand and the implements of his trade: the suit symbols of the Pentacle, Cup, Sword, and Wand, representing the four elements. With these base materials, he sets an intention to transmute them. As the conduit between earth and heaven, the Magician stands for decisions and creativity.",
     wisdomMessage: "Manifest your desires.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_01_magician_094854dc.jpg",
+    imageUrl: "/cards/major_01_magician.jpg",
   },
   {
     id: "major_02_high_priestess",
@@ -65,7 +65,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the High Priestess can show an inappropriate mentor or choosing a temporarily wrong path. You might be listening to bad advice or someone might try to persuade you to go against your intuition. It can also indicate secrets that need to be out in the open.",
     description: "The High Priestess stands between two great pillars labeled B and J. Behind her is a veil decorated with pomegranates; she wears a horned moon headdress and holds a scroll bearing the letters of the Torah. She represents the principle of the divine feminine — the psychic, astrologer, or spiritual teacher.",
     wisdomMessage: "Explore your spiritual side.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_02_high_priestess_9497593e.jpg",
+    imageUrl: "/cards/major_02_high_priestess.jpg",
   },
   {
     id: "major_03_empress",
@@ -79,7 +79,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Empress shows financial issues and domestic strife. She can also show a creative block in your projects and someone who is needy and takes too much from you. There may be an impact on fertility — literally in terms of conceiving a child or figuratively in terms of finding the time and peace of mind to grow an idea.",
     description: "The Empress is the mother archetype, symbol of creativity and abundance. She bears the symbol of Venus on her shield. Seated in an earthly paradise where corn grows at her feet, she represents the solar, earthly, and fertile aspect of womanhood.",
     wisdomMessage: "Life is abundant.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_03_empress_60df74c2.jpg",
+    imageUrl: "/cards/major_03_empress.jpg",
   },
   {
     id: "major_04_emperor",
@@ -93,7 +93,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Emperor is power-hungry and excessive in his demands, representing the negative traits of traditional masculinity — domineering, controlling, and even cruel. The reversed Emperor does not know where to draw the line and may use excessive force to get what he wants.",
     description: "The Emperor is the father archetype, a symbol of male power and virility. He sits squarely on his throne of stone in a landscape of barren rock, yet the mountains protect him. A tiny river runs behind him — a sign of the potential for growth as he directs.",
     wisdomMessage: "Take control; you are protected.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_04_emperor_be082503.jpg",
+    imageUrl: "/cards/major_04_emperor.jpg",
   },
   {
     id: "major_05_hierophant",
@@ -107,7 +107,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Hierophant shows poor leadership. You may be misled by an incompetent or egotistic individual at work or on your spiritual path. This is the card of the bad guru — the judgmental teacher who is more interested in furthering his ambitions than supporting you in yours.",
     description: "The Hierophant appears as a figure of religious orthodoxy. Wearing the papal crown and holding the scepter, he makes the hand gesture of blessing to two supplicants kneeling before him. He is the bridge between heaven and earth, the leader who officiates at weddings and guides spiritual seekers.",
     wisdomMessage: "Make the most of your gifts.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_05_hierophant_a9fb5349.jpg",
+    imageUrl: "/cards/major_05_hierophant.jpg",
   },
   {
     id: "major_06_lovers",
@@ -121,7 +121,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When the Lovers card reverses, relationships go out of balance. A relationship is in crisis, and you may question your initial attraction as the values you once held as a couple feel corrupted. There may be inequality, betrayal, and dishonesty.",
     description: "Two Lovers arrive in a magical garden where Archangel Raphael, angel of love and healing, presides over their union. They stand in the Garden of Eden — the woman gazing up at the angel, the man gazing at the woman. The clouds between them predict the hurdles they will overcome as their relationship becomes grounded in reality.",
     wisdomMessage: "Follow the wisdom of your heart.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_06_lovers_1669f82f.jpg",
+    imageUrl: "/cards/major_06_lovers.jpg",
   },
   {
     id: "major_07_chariot",
@@ -135,7 +135,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, there is arrogance and self-indulgence. This can show a person or event spiraling out of control. Ego is at work, and selfish needs come before the greater good. Travel plans and house moves are disrupted or delayed.",
     description: "The Chariot — or the charioteer — stands strong in his carriage of stone, flanked by two resting sphinxes. With the city and its river behind him, he is about to move on. With determination and self-control, he will keep his vehicle on the road and be successful in his quest.",
     wisdomMessage: "Take charge and reach for the stars.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_07_chariot_2da3e91a.jpg",
+    imageUrl: "/cards/major_07_chariot.jpg",
   },
   {
     id: "major_08_strength",
@@ -149,7 +149,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, Strength turns to weakness of will and avoidance of risk, conflicts, and decision-making. This can refer to ignoring your instincts altogether or allowing fear of conflict to stop you from taking action. Whatever you resist persists, so take charge and take on the challenge.",
     description: "A woman in white stands calmly over a lion, holding its jaws open. She stays in control by holding her position, symbolized by the infinity symbol above her head. The lion signifies passion and base instincts, and the woman, civility. She communicates with the lion through her calm presence.",
     wisdomMessage: "With strength, you can discover your higher purpose.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_08_strength_f479acad.jpg",
+    imageUrl: "/cards/major_08_strength.jpg",
   },
   {
     id: "major_09_hermit",
@@ -163,7 +163,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, you may be feeling alone and unsupported. However, this is more an attitude than reality, so it's worth asking yourself if you are avoiding help. The card can also show accepting a role — perhaps victim or martyr — that you find hard to let go of due to habit or stubbornness.",
     description: "The Hermit is a man all alone, old and bearded, with just his staff and lantern as his companions in a snowy wilderness. Inside his lantern is a glowing star, a symbol of guidance that lights his way ahead. The Hermit needs privacy, time for silence and discretion, so he can think and plan.",
     wisdomMessage: "Live quietly for a time.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_09_hermit_0cc8182c.jpg",
+    imageUrl: "/cards/major_09_hermit.jpg",
   },
   {
     id: "major_10_wheel_of_fortune",
@@ -177,7 +177,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When the Wheel is reversed, you may suffer some bad luck, but thankfully this marks the end of a run of challenges. The benefits of the upright Wheel will come — it will just take a little longer to gather momentum. On a spiritual level, this card can also show a lack of confidence in your intuitive messages.",
     description: "Flanked by three animals and a winged figure, the Wheel appears between the clouds in blue sky, symbolizing hope, clarity, and a breakthrough on a spiritual path. With the Wheel in motion, destiny is at work: Divine law rules.",
     wisdomMessage: "Surrender to fate.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_10_wheel_of_fortune_12de8620.jpg",
+    imageUrl: "/cards/major_10_wheel_of_fortune.jpg",
   },
   {
     id: "major_11_justice",
@@ -191,7 +191,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, Justice shows unfairness and imbalance. Legal matters may not go in your favor, or you may be dealing with a system that is corrupt or biased. It can also indicate that you are not being honest with yourself about a situation.",
     description: "Justice is seated between two pillars on a ceremonial podium. This is the judge, or the virtue Justice personified, holding the traditional symbols of the law — an upright sword in her right hand and the scales in her left. Unlike traditional justice figures, tarot's Justice is not blindfolded. Her vision is clear.",
     wisdomMessage: "Truth will prevail.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_11_justice_9ab98546.jpg",
+    imageUrl: "/cards/major_11_justice.jpg",
   },
   {
     id: "major_12_hanged_man",
@@ -205,7 +205,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Hanged Man shows resistance to necessary change or sacrifice. You may be clinging to old patterns or refusing to see a situation from a different angle. The delay or stagnation you're experiencing is self-imposed.",
     description: "A man hangs upside-down from a living tree, suspended by one foot. His expression is serene rather than anguished. A halo of light surrounds his head. He has chosen this position — it is a voluntary sacrifice that grants him a new perspective on the world.",
     wisdomMessage: "Let go and gain new perspective.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_12_hanged_man_a252e0b7.jpg",
+    imageUrl: "/cards/major_12_hanged_man.jpg",
   },
   {
     id: "major_13_death",
@@ -219,7 +219,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, Death shows resistance to necessary change. You may be clinging to the past or refusing to let go of something that has run its course. This resistance is creating stagnation and preventing you from moving forward.",
     description: "Death rides a white horse, carrying a black banner emblazoned with a white rose. Before him, figures from all walks of life — a king, a bishop, a maiden, a child — are prostrate or pleading. In the background, the sun rises between two towers, symbolizing the eternal cycle of endings and beginnings.",
     wisdomMessage: "Embrace transformation and new beginnings.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_13_death_41f6a8a4.jpg",
+    imageUrl: "/cards/major_13_death.jpg",
   },
   {
     id: "major_14_temperance",
@@ -233,7 +233,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, Temperance shows imbalance and excess. You may be overindulging in one area of life at the expense of others. There is a need to restore harmony and find the middle ground.",
     description: "An angel stands with one foot on land and one in water, pouring liquid between two golden cups. The angel wears a white robe with a triangle within a square on the chest. Irises bloom nearby, and a path leads to mountains in the background where a golden crown glows.",
     wisdomMessage: "Find the middle path.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_14_temperance_e151ccd8.jpg",
+    imageUrl: "/cards/major_14_temperance.jpg",
   },
   {
     id: "major_15_devil",
@@ -247,7 +247,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Devil shows liberation from bondage. You are breaking free from restrictions, addictions, or unhealthy patterns. This is a time of release and reclaiming your power.",
     description: "A horned, winged devil sits on a half-cube, to which two human figures are chained by their necks. The chains are loose enough to remove, suggesting the bondage is self-imposed. The inverted pentagram above the devil's head represents the triumph of matter over spirit.",
     wisdomMessage: "Examine what truly binds you.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_15_devil_e40d4078.jpg",
+    imageUrl: "/cards/major_15_devil.jpg",
   },
   {
     id: "major_16_tower",
@@ -261,7 +261,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Tower shows that you are resisting necessary change or that the upheaval is less dramatic than feared. You may be avoiding a crisis that needs to be confronted.",
     description: "A tower is struck by lightning, its crown blown off, and two figures fall headlong from the windows. The tower was built on a rocky cliff — a symbol of ambition built on false premises. The lightning bolt of divine truth has struck, and what was built on illusion must fall.",
     wisdomMessage: "From destruction comes illumination.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_16_tower_31009a1a.jpg",
+    imageUrl: "/cards/major_16_tower.jpg",
   },
   {
     id: "major_17_star",
@@ -275,7 +275,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Star shows a loss of faith or hope. You may be feeling disconnected from your spiritual path or unable to see the light at the end of the tunnel. It is important to reconnect with what inspires you.",
     description: "A naked woman kneels by a pool of water, pouring water from two jugs — one onto the earth, one into the pool. Above her, eight stars shine in the sky, the largest being an eight-pointed star. An ibis perches in a tree nearby. The scene radiates serenity and hope.",
     wisdomMessage: "Have faith — your star is rising.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_17_star_8777959e.jpg",
+    imageUrl: "/cards/major_17_star.jpg",
   },
   {
     id: "major_18_moon",
@@ -289,7 +289,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Moon shows that illusions are being dispelled and clarity is returning. Fears that seemed overwhelming are diminishing, and you are beginning to see the truth of a situation.",
     description: "A full moon shines between two towers, casting its light on a path that winds between a dog and a wolf, past a crayfish emerging from a pool. The moon's face looks down with an expression of mystery. The scene represents the unconscious mind and the realm of dreams.",
     wisdomMessage: "Trust your intuition through the darkness.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_18_moon_7e87c78b.jpg",
+    imageUrl: "/cards/major_18_moon.jpg",
   },
   {
     id: "major_19_sun",
@@ -303,7 +303,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Sun's energy is temporarily blocked or diminished. You may be experiencing self-doubt or a temporary setback. The joy and success of the upright Sun are still available to you — you just need to clear away what is blocking the light.",
     description: "A large, radiant sun shines in the sky, its rays both straight and wavy. A child rides a white horse, arms outstretched in joy, wearing a wreath of flowers. Behind them, sunflowers bloom over a garden wall. The scene radiates pure happiness and vitality.",
     wisdomMessage: "Let your light shine.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_19_sun_b6d370a3.jpg",
+    imageUrl: "/cards/major_19_sun.jpg",
   },
   {
     id: "major_20_judgement",
@@ -317,7 +317,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, Judgement shows self-doubt and an inability to forgive yourself or others. You may be stuck in the past, unable to move forward. It is time to release old wounds and accept the call to a higher purpose.",
     description: "Archangel Gabriel blows his trumpet from the clouds, awakening the dead who rise from their coffins. Men, women, and children of all ages stretch their arms toward the angel in joy and wonder. The mountains in the background represent the immovable nature of truth.",
     wisdomMessage: "Answer the call of your higher self.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_20_judgement_cc1fdd5a.jpg",
+    imageUrl: "/cards/major_20_judgement.jpg",
   },
   {
     id: "major_21_world",
@@ -331,7 +331,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the World shows that completion is delayed or that you are not fully embracing the success that is available to you. There may be loose ends to tie up before you can truly celebrate your achievement.",
     description: "A dancing figure, draped in a purple sash, is surrounded by a laurel wreath. In each corner of the card, the four fixed signs of the zodiac — the bull, lion, eagle, and angel — look on. The figure holds two wands, dancing in celebration of completion and wholeness.",
     wisdomMessage: "Celebrate your achievements and embrace new beginnings.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/major_21_world_92c91b88.jpg",
+    imageUrl: "/cards/major_21_world.jpg",
   },
 
   // ═══════════════════════════════════════
@@ -348,7 +348,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Ace of Cups shows emotional blockages or the inability to receive love. You may be closing your heart to new experiences or suppressing your feelings.",
     description: "A hand emerges from a cloud, offering a golden cup overflowing with five streams of water. A dove descends, carrying a communion wafer. The cup is adorned with an inverted M, representing the waters of consciousness. Water lilies float below.",
     wisdomMessage: "Open your heart to new love.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/cups_01_ace_d9d51575.jpg",
+    imageUrl: "/cards/cups_01_ace.jpg",
   },
   {
     id: "cups_02_two",
@@ -361,7 +361,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Two of Cups shows imbalance or disharmony in a relationship. There may be a lack of reciprocity or a misalignment of values.",
     description: "A man and woman face each other, each holding a cup. Between them, the caduceus of Hermes rises — a winged staff entwined by two serpents — topped by a lion's head. This symbol represents the alchemical marriage of opposites.",
     wisdomMessage: "Honor the sacred bond between you.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/cups_02_two_cea76bb6.jpg",
+    imageUrl: "/cards/cups_02_two.jpg",
   },
   {
     id: "cups_03_three",
@@ -374,7 +374,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Three of Cups can indicate overindulgence, gossip, or superficial socializing. There may be a third party causing disruption in a relationship.",
     description: "Three women dance together in a circle, each raising a golden cup in celebration. They are surrounded by flowers and fruit, symbolizing abundance and the harvest. Their flowing robes in red, white, and orange suggest vitality and joy.",
     wisdomMessage: "Celebrate with those you love.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/cups_03_three_cda03761.jpg",
+    imageUrl: "/cards/cups_03_three.jpg",
   },
   {
     id: "cups_04_four",
@@ -387,7 +387,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Four of Cups shows a renewed sense of motivation and clarity. You are emerging from a period of apathy and are ready to engage with life again.",
     description: "A young man sits beneath a tree, arms crossed, contemplating three cups before him. A divine hand emerges from a cloud, offering a fourth cup, but he seems unaware of it. His posture suggests withdrawal and introspection.",
     wisdomMessage: "Look up — opportunity awaits.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/cups_04_four_e5fdd04f.jpg",
+    imageUrl: "/cards/cups_04_four.jpg",
   },
   {
     id: "cups_05_five",
@@ -400,7 +400,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Five of Cups shows that you are beginning to move on from grief and loss. You are turning away from what was lost and focusing on what remains.",
     description: "A cloaked figure stands before three overturned cups, head bowed in sorrow. Behind him, two cups remain standing, but he cannot see them. In the distance, a bridge leads to a castle — the path forward is available, but he must first turn around.",
     wisdomMessage: "Acknowledge your grief, then turn toward what remains.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/cups_05_five_3acee9ca.jpg",
+    imageUrl: "/cards/cups_05_five.jpg",
   },
   {
     id: "cups_06_six",
@@ -413,7 +413,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Six of Cups can indicate being stuck in the past or an idealized view of childhood that prevents you from moving forward.",
     description: "Two children stand in a garden, one offering the other a cup filled with flowers. Five more cups, also filled with white flowers, are arranged around them. The scene has a golden, nostalgic quality, evoking the innocence and simplicity of childhood.",
     wisdomMessage: "Honor the past while embracing the present.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/cups_06_six_13b6ead0.jpg",
+    imageUrl: "/cards/cups_06_six.jpg",
   },
   {
     id: "cups_07_seven",
@@ -426,7 +426,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Seven of Cups shows greater clarity and the ability to make practical choices. The fog of illusion is lifting.",
     description: "A silhouetted figure gazes at seven cups floating in clouds, each containing a different vision — a castle, a wreath, a dragon, a snake, a human figure, jewels, and a face. The cups represent the many illusions and fantasies that can distract us from reality.",
     wisdomMessage: "Choose wisely — not all that glitters is gold.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/cups_07_seven_b2e2c82d.jpg",
+    imageUrl: "/cards/cups_07_seven.jpg",
   },
   {
     id: "cups_08_eight",
@@ -439,7 +439,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Eight of Cups shows a reluctance to move on or a return to a situation that was left behind. You may be avoiding the deeper search for meaning.",
     description: "A cloaked figure walks away from eight stacked cups, heading toward mountains under a crescent moon. The cups are neatly arranged but incomplete — there is a gap in the arrangement. The figure walks with purpose, seeking something beyond material comfort.",
     wisdomMessage: "Have the courage to seek what truly fulfills you.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/cups_08_eight_ff59b4b5.jpg",
+    imageUrl: "/cards/cups_08_eight.jpg",
   },
   {
     id: "cups_09_nine",
@@ -452,7 +452,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Nine of Cups shows that material satisfaction is not bringing the happiness you expected. Inner fulfillment is more important than outward success.",
     description: "A well-dressed man sits on a bench, arms crossed, with a satisfied smile. Behind him, nine golden cups are arranged on a curved shelf, like trophies. His posture and expression radiate contentment and self-satisfaction.",
     wisdomMessage: "Your wish is granted — enjoy it.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/cups_09_nine_5ba5da68.jpg",
+    imageUrl: "/cards/cups_09_nine.jpg",
   },
   {
     id: "cups_10_ten",
@@ -465,7 +465,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Ten of Cups shows family discord or an inability to appreciate the happiness that surrounds you. There may be unrealistic expectations about what happiness should look like.",
     description: "A couple stands with arms raised, looking at a rainbow of ten cups arching across the sky. Two children dance nearby, and in the background, a house and trees suggest a peaceful home. The scene radiates pure joy and familial bliss.",
     wisdomMessage: "True happiness is found in love and connection.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/cups_10_ten_01072a4a.jpg",
+    imageUrl: "/cards/cups_10_ten.jpg",
   },
   {
     id: "cups_11_page",
@@ -478,7 +478,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Page of Cups can indicate emotional immaturity, creative blocks, or unreliable news.",
     description: "A young page stands by the sea, holding a cup from which a fish unexpectedly emerges. The page looks at the fish with curiosity and wonder, suggesting the unexpected nature of creative inspiration and intuitive messages.",
     wisdomMessage: "Stay open to unexpected inspiration.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/cups_11_page_860088fb.jpg",
+    imageUrl: "/cards/cups_11_page.jpg",
   },
   {
     id: "cups_12_knight",
@@ -491,7 +491,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Knight of Cups can indicate moodiness, unreliability, or a tendency to be led astray by fantasies.",
     description: "A knight rides a white horse at a gentle pace, holding a golden cup as if making an offering. His helmet and boots are adorned with wings, suggesting the flight of imagination. He moves with grace and purpose, guided by his heart.",
     wisdomMessage: "Follow your heart on the quest for beauty.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/cups_12_knight_f88afdad.jpg",
+    imageUrl: "/cards/cups_12_knight.jpg",
   },
   {
     id: "cups_13_queen",
@@ -504,7 +504,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Queen of Cups can indicate emotional manipulation, codependency, or being overwhelmed by emotions.",
     description: "The Queen sits on a throne at the water's edge, holding an ornate, lidded cup — the most elaborate cup in the tarot. She gazes at it with deep contemplation. Her throne is decorated with sea creatures, and the sea stretches behind her.",
     wisdomMessage: "Trust the wisdom of your heart.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/cups_13_queen_6d3aa6e7.jpg",
+    imageUrl: "/cards/cups_13_queen.jpg",
   },
   {
     id: "cups_14_king",
@@ -517,7 +517,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the King of Cups can indicate emotional manipulation, moodiness, or using emotional intelligence for selfish ends.",
     description: "The King sits on a stone throne in the middle of the sea, wearing a blue tunic and a gold crown. He holds a cup and a scepter. Despite the turbulent sea around him, he remains calm and composed, a fish jumping on one side and a ship sailing on the other.",
     wisdomMessage: "Lead with compassion and wisdom.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/cups_14_king_98eb1523.jpg",
+    imageUrl: "/cards/cups_14_king.jpg",
   },
 
   // ═══════════════════════════════════════
@@ -534,7 +534,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Ace of Pentacles shows missed opportunities or financial instability. A promising venture may not materialize as expected.",
     description: "A hand emerges from a cloud, offering a large golden pentacle. Below, a garden path leads through an archway of roses to mountains beyond. The scene suggests that material prosperity is available to those who are willing to cultivate it.",
     wisdomMessage: "Seize this opportunity to build lasting prosperity.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/pents_01_ace_ed8e8706.jpg",
+    imageUrl: "/cards/pents_01_ace.jpg",
   },
   {
     id: "pents_02_two",
@@ -547,7 +547,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Two of Pentacles shows that the juggling act is becoming unsustainable. You may be overwhelmed by competing demands.",
     description: "A young man dances while juggling two pentacles connected by an infinity loop. In the background, two ships ride the waves of a turbulent sea. His easy smile suggests he is comfortable with the balancing act.",
     wisdomMessage: "Find your rhythm in the dance of life.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/pents_02_two_b75dcce7.jpg",
+    imageUrl: "/cards/pents_02_two.jpg",
   },
   {
     id: "pents_03_three",
@@ -560,7 +560,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Three of Pentacles can indicate poor teamwork, lack of effort, or skills that are not being fully utilized.",
     description: "A young craftsman works on a cathedral, while two figures — a monk and a nobleman — consult architectural plans. The craftsman stands on a bench, carving three pentacles into the stone arch. The scene represents the collaboration between vision and skilled execution.",
     wisdomMessage: "Master your craft and collaborate with others.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/pents_03_three_3cf98841.jpg",
+    imageUrl: "/cards/pents_03_three.jpg",
   },
   {
     id: "pents_04_four",
@@ -573,7 +573,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Four of Pentacles shows a release of material attachment and a willingness to share your resources more freely.",
     description: "A crowned figure sits with arms wrapped around a large pentacle, one pentacle balanced on his crown, and one under each foot. Behind him, a city is visible. His posture is defensive and possessive, suggesting an excessive attachment to material security.",
     wisdomMessage: "Security is found within, not in possessions.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/pents_04_four_400d8374.jpg",
+    imageUrl: "/cards/pents_04_four.jpg",
   },
   {
     id: "pents_05_five",
@@ -586,7 +586,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Five of Pentacles shows recovery from hardship and the beginning of a more stable period.",
     description: "Two figures — one on crutches, one in rags — trudge through the snow past a church window with a pentacle design. The warm light of the church is visible, but they pass by without entering. The scene speaks to physical and spiritual poverty.",
     wisdomMessage: "Help is available — ask for it.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/pents_05_five_8f90f28d.jpg",
+    imageUrl: "/cards/pents_05_five.jpg",
   },
   {
     id: "pents_06_six",
@@ -599,7 +599,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Six of Pentacles can indicate strings-attached giving, inequality, or taking advantage of others' generosity.",
     description: "A wealthy merchant in red robes holds scales in one hand and distributes coins to two kneeling beggars with the other. The scales suggest fairness and balance in the distribution of wealth.",
     wisdomMessage: "Give freely and receive graciously.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/pents_06_six_c4050e75.jpg",
+    imageUrl: "/cards/pents_06_six.jpg",
   },
   {
     id: "pents_07_seven",
@@ -612,7 +612,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Seven of Pentacles can indicate impatience, poor investment decisions, or a lack of long-term planning.",
     description: "A young farmer leans on his hoe, contemplating seven pentacles growing on a vine. He has worked hard and is pausing to assess his progress. His posture suggests both weariness and hope as he waits for the harvest.",
     wisdomMessage: "Patient cultivation yields the richest harvest.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/pents_07_seven_a6cc7584.jpg",
+    imageUrl: "/cards/pents_07_seven.jpg",
   },
   {
     id: "pents_08_eight",
@@ -625,7 +625,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Eight of Pentacles can indicate a lack of focus, poor workmanship, or skills that are not being properly developed.",
     description: "A craftsman sits at his workbench, carefully carving pentacles. Six completed pentacles hang on a post beside him, and he works on a seventh. In the distance, a town is visible. His focused attention and dedication speak to the value of skilled work.",
     wisdomMessage: "Mastery is achieved through dedicated practice.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/pents_08_eight_1a2e4dfd.jpg",
+    imageUrl: "/cards/pents_08_eight.jpg",
   },
   {
     id: "pents_09_nine",
@@ -638,7 +638,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Nine of Pentacles can indicate financial dependence, overindulgence, or a hollow sense of success.",
     description: "An elegantly dressed woman stands in a vineyard, her hand resting on a hooded falcon. Nine pentacles hang from the vines around her. Her garden is lush and abundant, and her posture radiates quiet confidence and self-possession.",
     wisdomMessage: "Enjoy the abundance you have created.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/pents_09_nine_45c0ae3f.jpg",
+    imageUrl: "/cards/pents_09_nine.jpg",
   },
   {
     id: "pents_10_ten",
@@ -651,7 +651,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Ten of Pentacles can indicate family conflict, financial instability, or the breakdown of traditions.",
     description: "An old man sits with two dogs while a couple and child stand nearby in an archway. Ten pentacles are arranged in the pattern of the Tree of Life. The scene represents the fullness of material and family life across generations.",
     wisdomMessage: "Build a legacy that endures.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/pents_10_ten_45b58895.jpg",
+    imageUrl: "/cards/pents_10_ten.jpg",
   },
   {
     id: "pents_11_page",
@@ -664,7 +664,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Page of Pentacles can indicate procrastination, lack of focus, or unrealistic expectations about practical matters.",
     description: "A young page stands in a field of flowers, holding a golden pentacle aloft and gazing at it with intense concentration. Mountains rise in the background. His posture suggests both ambition and the careful, methodical approach of an earth sign.",
     wisdomMessage: "Apply yourself diligently to your studies.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/pents_11_page_22660629.jpg",
+    imageUrl: "/cards/pents_11_page.jpg",
   },
   {
     id: "pents_12_knight",
@@ -677,7 +677,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Knight of Pentacles can indicate stubbornness, inflexibility, or being stuck in a rut.",
     description: "A knight sits motionless on a heavy black horse in a plowed field. He holds a pentacle in both hands, studying it carefully. Unlike the other knights who are in motion, this knight is still — suggesting patience, reliability, and methodical planning.",
     wisdomMessage: "Steady, reliable effort achieves lasting results.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/pents_12_knight_3a2b36e2.jpg",
+    imageUrl: "/cards/pents_12_knight.jpg",
   },
   {
     id: "pents_13_queen",
@@ -690,7 +690,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Queen of Pentacles can indicate neglect of domestic responsibilities, financial mismanagement, or smothering behavior.",
     description: "The Queen sits on a throne decorated with fruit and goats, holding a golden pentacle in her lap. A rabbit runs at her feet, and flowers bloom around her. Her gaze is directed downward at the pentacle, suggesting her focus on the material world and her responsibilities.",
     wisdomMessage: "Nurture your garden and it will flourish.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/pents_13_queen_d24f3508.jpg",
+    imageUrl: "/cards/pents_13_queen.jpg",
   },
   {
     id: "pents_14_king",
@@ -703,7 +703,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the King of Pentacles can indicate financial mismanagement, greed, or an excessive focus on material wealth at the expense of other values.",
     description: "The King sits on a throne decorated with bulls and vines, surrounded by a lush garden. He wears robes covered in grapes and holds a scepter and a golden pentacle. His posture radiates confidence, security, and material mastery.",
     wisdomMessage: "Build your kingdom with patience and wisdom.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/pents_14_king_fc94bc9d.jpg",
+    imageUrl: "/cards/pents_14_king.jpg",
   },
 
   // ═══════════════════════════════════════
@@ -720,7 +720,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Ace of Swords shows confusion, miscommunication, or a decision that is not well thought out.",
     description: "A hand emerges from a cloud, holding a sword upright. A crown adorned with a laurel wreath and palm branch hangs from the sword's tip. Mountains rise in the background. The scene represents the power of the mind to cut through confusion and reveal truth.",
     wisdomMessage: "Speak your truth with clarity and courage.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/swords_01_ace_2392f1c8.jpg",
+    imageUrl: "/cards/swords_01_ace.jpg",
   },
   {
     id: "swords_02_two",
@@ -733,7 +733,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Two of Swords shows that the stalemate is breaking and a decision is being made, though it may be difficult.",
     description: "A blindfolded woman sits before a calm sea, holding two crossed swords. A crescent moon is visible in the sky. Her posture is defensive and closed, suggesting an unwillingness to face a difficult situation.",
     wisdomMessage: "Remove the blindfold and face your choices.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/swords_02_two_b5ce102d.jpg",
+    imageUrl: "/cards/swords_02_two.jpg",
   },
   {
     id: "swords_03_three",
@@ -746,7 +746,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Three of Swords shows that the worst of the pain is over and healing is beginning.",
     description: "Three swords pierce a red heart against a stormy, cloud-filled sky. The image is stark and direct — there is no softening of the message. Rain falls, adding to the sense of grief and sorrow.",
     wisdomMessage: "Allow yourself to grieve — healing will follow.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/swords_03_three_bc9c1810.jpg",
+    imageUrl: "/cards/swords_03_three.jpg",
   },
   {
     id: "swords_04_four",
@@ -759,7 +759,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Four of Swords shows a return to activity after a period of rest, or a restlessness that prevents proper recovery.",
     description: "A knight lies in effigy on a tomb, hands clasped in prayer. Three swords hang on the wall above him, and one lies beneath him. A stained glass window shows a figure in supplication. The scene suggests peaceful rest and recovery.",
     wisdomMessage: "Rest and recover — you will be stronger for it.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/swords_04_four_88b0e31d.jpg",
+    imageUrl: "/cards/swords_04_four.jpg",
   },
   {
     id: "swords_05_five",
@@ -772,7 +772,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Five of Swords shows a desire to move on from conflict and to seek reconciliation.",
     description: "A smirking figure holds three swords while two others lie on the ground. Two defeated figures walk away in the background, their heads bowed. The sky is stormy and turbulent. The scene suggests a conflict where the winner has gained little of real value.",
     wisdomMessage: "Choose your battles wisely.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/swords_05_five_49e056d3.jpg",
+    imageUrl: "/cards/swords_05_five.jpg",
   },
   {
     id: "swords_06_six",
@@ -785,7 +785,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Six of Swords shows resistance to necessary change or a return to a difficult situation.",
     description: "A ferryman poles a boat across a river. A woman and child sit huddled in the bow, surrounded by six upright swords. The water on their side of the boat is choppy, while the far shore is calm. The scene represents a journey from difficulty toward peace.",
     wisdomMessage: "You are moving toward calmer waters.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/swords_06_six_0e5a1b3a.jpg",
+    imageUrl: "/cards/swords_06_six.jpg",
   },
   {
     id: "swords_07_seven",
@@ -798,7 +798,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Seven of Swords shows that deception is being uncovered or that you are choosing a more honest approach.",
     description: "A figure tiptoes away from a military camp, carrying five swords and looking back over his shoulder. Two swords remain planted in the ground. The scene suggests stealth, strategy, and possibly deception.",
     wisdomMessage: "Be strategic, but not at the cost of your integrity.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/swords_07_seven_36a53896.jpg",
+    imageUrl: "/cards/swords_07_seven.jpg",
   },
   {
     id: "swords_08_eight",
@@ -811,7 +811,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Eight of Swords shows liberation from self-imposed restrictions and a new sense of freedom.",
     description: "A blindfolded woman stands bound in a marshy area, surrounded by eight swords planted in the ground. The swords form a loose cage around her, but none touch her. In the background, a castle is visible on a cliff.",
     wisdomMessage: "The cage is of your own making — you can leave.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/swords_08_eight_8fbfdc6f.jpg",
+    imageUrl: "/cards/swords_08_eight.jpg",
   },
   {
     id: "swords_09_nine",
@@ -824,7 +824,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Nine of Swords shows that the worst of the anxiety is passing and a more hopeful perspective is emerging.",
     description: "A figure sits up in bed, covering their face with their hands in despair. Nine swords hang horizontally on the wall above. The bedcover is decorated with roses and astrological symbols. The scene captures the anguish of sleepless nights and anxious thoughts.",
     wisdomMessage: "The darkest hour is just before dawn.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/swords_09_nine_877ed8e9.jpg",
+    imageUrl: "/cards/swords_09_nine.jpg",
   },
   {
     id: "swords_10_ten",
@@ -837,7 +837,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Ten of Swords shows recovery from a devastating experience and the beginning of a new cycle.",
     description: "A figure lies face down on the ground, ten swords planted in his back. The sky above is dark and stormy, but on the horizon, the sun is beginning to rise. The sea is calm. The scene represents the absolute end of a difficult cycle.",
     wisdomMessage: "The sun rises even after the darkest night.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/swords_10_ten_0bc96573.jpg",
+    imageUrl: "/cards/swords_10_ten.jpg",
   },
   {
     id: "swords_11_page",
@@ -850,7 +850,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Page of Swords can indicate gossip, hasty communication, or using information to manipulate others.",
     description: "A young page stands on a hilltop, holding a sword aloft. The wind blows his hair and the clouds move swiftly behind him. His posture is alert and watchful, suggesting vigilance and readiness.",
     wisdomMessage: "Gather information before acting.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/swords_11_page_509289cf.jpg",
+    imageUrl: "/cards/swords_11_page.jpg",
   },
   {
     id: "swords_12_knight",
@@ -863,7 +863,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Knight of Swords can indicate recklessness, aggression, or a tendency to act without thinking.",
     description: "A knight charges forward on a white horse, sword raised high. The wind whips his cloak and the horse's mane. Storm clouds gather behind him. His expression is fierce and determined, suggesting single-minded purpose.",
     wisdomMessage: "Act with courage, but temper it with wisdom.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/swords_12_knight_6a538194.jpg",
+    imageUrl: "/cards/swords_12_knight.jpg",
   },
   {
     id: "swords_13_queen",
@@ -876,7 +876,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Queen of Swords can indicate cruelty, bitterness, or using intelligence to wound others.",
     description: "The Queen sits on a stone throne decorated with butterflies and an angel, holding her sword upright. One hand is raised in greeting or blessing. The sky is partly cloudy, and the wind blows through the trees. Her expression is serious and direct.",
     wisdomMessage: "See clearly and speak your truth.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/swords_13_queen_88115939.jpg",
+    imageUrl: "/cards/swords_13_queen.jpg",
   },
   {
     id: "swords_14_king",
@@ -889,7 +889,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the King of Swords can indicate tyranny, manipulation, or the misuse of intellectual power.",
     description: "The King sits on a stone throne decorated with butterflies and crescent moons, holding his sword upright. His gaze is direct and penetrating. The sky is partly cloudy, suggesting that while clarity is available, there are still complexities to navigate.",
     wisdomMessage: "Lead with clarity, justice, and integrity.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/swords_14_king_e2e05db3.jpg",
+    imageUrl: "/cards/swords_14_king.jpg",
   },
 
   // ═══════════════════════════════════════
@@ -906,7 +906,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Ace of Wands shows creative blocks, delays, or a lack of motivation.",
     description: "A hand emerges from a cloud, holding a wand from which leaves are sprouting. Mountains and a castle are visible in the background. The scene represents the raw creative energy and potential of the element of fire.",
     wisdomMessage: "Act on your inspiration now.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/wands_01_ace_e05402b9.jpg",
+    imageUrl: "/cards/wands_01_ace.jpg",
   },
   {
     id: "wands_02_two",
@@ -919,7 +919,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Two of Wands shows fear of the unknown or an inability to plan effectively.",
     description: "A figure stands on a castle battlements, holding a small globe in one hand and a wand in the other. A second wand is fixed to the wall beside him. He gazes out at the sea and mountains, contemplating his next move.",
     wisdomMessage: "The world is at your feet — dare to dream.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/wands_02_two_3909c057.jpg",
+    imageUrl: "/cards/wands_02_two.jpg",
   },
   {
     id: "wands_03_three",
@@ -932,7 +932,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Three of Wands shows delays, setbacks, or a lack of foresight.",
     description: "A figure stands with his back to us on a cliff, watching three ships sail across the sea. Three wands are planted in the ground around him. The scene suggests a merchant or explorer watching his ventures set sail.",
     wisdomMessage: "Your ventures are setting sail — trust the journey.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/wands_03_three_65f65e59.jpg",
+    imageUrl: "/cards/wands_03_three.jpg",
   },
   {
     id: "wands_04_four",
@@ -945,7 +945,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Four of Wands can indicate a lack of harmony at home or a celebration that is delayed.",
     description: "Four wands are planted in the ground, their tops connected by a garland of flowers and fruit. Two figures dance beneath the canopy, holding bouquets. In the background, a castle is visible and more people celebrate.",
     wisdomMessage: "Celebrate your achievements with those you love.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/wands_04_four_7c40ea25.jpg",
+    imageUrl: "/cards/wands_04_four.jpg",
   },
   {
     id: "wands_05_five",
@@ -958,7 +958,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Five of Wands shows that conflict is resolving and a more cooperative approach is emerging.",
     description: "Five young men brandish wands at each other in apparent conflict. Their postures suggest both aggression and playfulness — it is unclear whether this is a real fight or a game. The scene represents the energy of competition and conflict.",
     wisdomMessage: "Channel your competitive energy constructively.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/wands_05_five_d4cc5457.jpg",
+    imageUrl: "/cards/wands_05_five.jpg",
   },
   {
     id: "wands_06_six",
@@ -971,7 +971,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Six of Wands shows a fall from grace or success that is not being recognized.",
     description: "A rider on a white horse wears a laurel wreath and holds a wand adorned with another wreath. A crowd of people with wands surrounds him in celebration. The scene represents the triumphant return of a hero.",
     wisdomMessage: "Your victory is well-deserved — accept the recognition.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/wands_06_six_262658bc.jpg",
+    imageUrl: "/cards/wands_06_six.jpg",
   },
   {
     id: "wands_07_seven",
@@ -984,7 +984,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Seven of Wands shows giving in to pressure or abandoning a position that should be defended.",
     description: "A figure stands on a hilltop, wielding a wand against six others that are thrust at him from below. His stance is defensive but determined. He is outnumbered but holds the high ground.",
     wisdomMessage: "Stand your ground — your position is defensible.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/wands_07_seven_c710ede3.jpg",
+    imageUrl: "/cards/wands_07_seven.jpg",
   },
   {
     id: "wands_08_eight",
@@ -997,7 +997,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Eight of Wands shows delays, miscommunication, or scattered energy.",
     description: "Eight wands fly through the air over a peaceful landscape. There are no figures in this card — only the wands in motion. The scene suggests rapid movement, messages in transit, and the swift unfolding of events.",
     wisdomMessage: "Act swiftly — the time for action is now.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/wands_08_eight_22c36e7f.jpg",
+    imageUrl: "/cards/wands_08_eight.jpg",
   },
   {
     id: "wands_09_nine",
@@ -1010,7 +1010,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Nine of Wands shows exhaustion, giving up, or paranoia.",
     description: "A bandaged figure leans on a wand, looking back over his shoulder with a wary expression. Eight wands stand in a row behind him. His posture suggests both weariness and determination — he has been through a battle but is still standing.",
     wisdomMessage: "Gather your strength — the finish line is near.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/wands_09_nine_efe61394.jpg",
+    imageUrl: "/cards/wands_09_nine.jpg",
   },
   {
     id: "wands_10_ten",
@@ -1023,7 +1023,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Ten of Wands shows a release of burdens and a lighter load ahead.",
     description: "A figure struggles forward, bent under the weight of ten wands bundled together. A town is visible in the distance. The figure's posture suggests exhaustion and determination — they are almost there, but the load is heavy.",
     wisdomMessage: "Put down what is not yours to carry.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/wands_10_ten_ecebcb5b.jpg",
+    imageUrl: "/cards/wands_10_ten.jpg",
   },
   {
     id: "wands_11_page",
@@ -1036,7 +1036,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Page of Wands can indicate immaturity, lack of direction, or unreliable news.",
     description: "A young page stands in a desert landscape, holding a wand and gazing at it with fascination. Salamanders decorate his tunic — a symbol of fire. Mountains rise in the background. His posture suggests curiosity and the excitement of discovery.",
     wisdomMessage: "Embrace your inner adventurer.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/wands_11_page_e9568e73.jpg",
+    imageUrl: "/cards/wands_11_page.jpg",
   },
   {
     id: "wands_12_knight",
@@ -1049,7 +1049,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Knight of Wands can indicate recklessness, scattered energy, or a tendency to start things without finishing them.",
     description: "A knight charges forward on a rearing horse, holding a wand aloft. His armor is decorated with salamanders, and his plume streams behind him. The desert landscape suggests adventure in exotic territories.",
     wisdomMessage: "Pursue your passion with courage and fire.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/wands_12_knight_614ce65b.jpg",
+    imageUrl: "/cards/wands_12_knight.jpg",
   },
   {
     id: "wands_13_queen",
@@ -1062,7 +1062,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the Queen of Wands can indicate jealousy, manipulation, or a tendency to be domineering.",
     description: "The Queen sits on a throne decorated with lions and sunflowers, holding a wand in one hand and a sunflower in the other. A black cat sits at her feet. Her posture radiates confidence and warmth. She faces forward, engaging directly with the viewer.",
     wisdomMessage: "Radiate confidence and let your passion shine.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/wands_13_queen_a033cd6d.jpg",
+    imageUrl: "/cards/wands_13_queen.jpg",
   },
   {
     id: "wands_14_king",
@@ -1075,7 +1075,7 @@ export const tarotCards: TarotCard[] = [
     reversed: "When reversed, the King of Wands can indicate arrogance, impulsiveness, or a tendency to dominate rather than inspire.",
     description: "The King sits on a throne decorated with lions and salamanders, holding a wand that is alive with growth. A salamander crawls near his feet. His posture is commanding and confident, and he gazes forward with the vision of a natural leader.",
     wisdomMessage: "Lead with vision, passion, and integrity.",
-    imageUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663487115720/2i9JDtoxmfdYJFqXPDfh6d/wands_14_king_155a80af.jpg",
+    imageUrl: "/cards/wands_14_king.jpg",
   },
 ];
 
